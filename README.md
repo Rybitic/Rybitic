@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Craftify](https://craftify.host)
 
-- 👨‍💻 All of my projects are available at [https://rybitic.co](https://rybitic.com)
+- 👨‍💻 All of my projects are available at [https://rybitic.com](https://rybitic.com)
 
 - 💬 Ask me about **Python, Trading, Crypto, Cloud**
 
