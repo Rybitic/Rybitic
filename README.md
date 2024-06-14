@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rybitic" target="blank"><img src="https://img.shields.io/twitter/follow/rybitic?logo=twitter&style=for-the-badge" alt="rybitic" /></a> </p>
 
-- 🔭 I’m currently working on **Trylabs**
+- 🔭 I’m currently working on **Craftify Exia & Trylabs**
 
 - 🌱 I’m currently learning **Machine Learning**
 
