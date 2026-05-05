@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/rybitic" target="blank"><img src="https://img.shields.io/twitter/follow/rybitic?logo=twitter&style=for-the-badge" alt="rybitic" /></a> </p>
 
-- 🔭 I’m currently working on **Craftify Exia & Trylabs**
+- 🔭 I’m currently working on **SuprWealth**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Quantitative Finance**
 
-- 🔭 I’m currently working on [Craftify](https://craftify.host)
+- 🔭 I’m currently working on [Suprwealth]
 
-- 👨‍💻 All of my projects are available at [https://rybitic.com](https://rybitic.com)
+- 💬 Ask me about **Python, Trading, Stocks, Crypto, Options, Cloud**
 
-- 💬 Ask me about **Python, Trading, Crypto, Cloud**
-
-- 📫 How to reach me **rybitic@craftify.host**
+- 📫 How to reach me - Discord - @rythoom
 
 - ⚡ Fun fact **I am a bad Public Speaker**
 
